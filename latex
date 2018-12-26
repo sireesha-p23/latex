@@ -112,7 +112,7 @@ Selected Global rank:1640\\
 
 \descript{Face and eye detection (personal project) }
 \begin{tightemize}
-\item Face and eye detection using Python,OpenCV.It involves data analysis of features of Human using python libraries like opencv and numpy\\
+\item Face and eye detection using Python,OpenCV\\
 link : \href{https://github.com/sireesha-p23/Face-and-eye-detection}{\custombold{https://github.com/sireesha-p23/Face-and-eye-detection}} \\\end{tightemize}
 \sectionsep
 \descript{Alzheimer's disease detection (ongoing)}
